@@ -1,7 +1,7 @@
 # Power Bi - Indicadores mundiales
 
 En este reporte se busca realizar una integración de las fuentes de datos proporcionadas, que nos indique información clave por medio de mapas y gráficos interactivos en dos páginas:
-
+ 
   **Página 1** | Población por país y continente:
 
   ![pagina_1.png](https://github.com/guadano/Power_Bi_Indicadores_mundiales/blob/main/Imagenes/pagina_1.png)
